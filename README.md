@@ -9,15 +9,15 @@ Hide on mobile devices
 ```css
 <div class="cone-hide-mobile">
   Content inside
-</div>```
+</div>
 
 
 Hide on tablets
 
-```css
+
 <div class="cone-hide-tablet">
   Content inside
-</div>```
+</div>
  
 
 Hide on PC's
