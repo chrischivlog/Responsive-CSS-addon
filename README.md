@@ -22,7 +22,8 @@ Hide on tablets
 
 Hide on PC's
 
-```css
+
 <div class="cone-hide-pc">
   Content inside
-</div>```
+</div>
+```
