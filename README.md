@@ -4,21 +4,23 @@ An additional css script which helps you to hide elements in html on mobile devi
 
 ##Usage in your html file:
 
-**Hide on mobile devices**
+Hide on mobile devices
+
 ```css
 <div class="cone-hide-mobile">
   Content inside
 </div>```
 
 
-**Hide on tablets**
+Hide on tablets
+
 ```css
 <div class="cone-hide-tablet">
   Content inside
 </div>```
+ 
 
-
-**Hide on PC's**
+Hide on PC's
 
 ```css
 <div class="cone-hide-pc">
