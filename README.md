@@ -5,22 +5,22 @@ An additional css script which helps you to hide elements in html on mobile devi
 ##Usage in your html file:
 
 **Hide on mobile devices**
-`
+```css
 <div class="cone-hide-mobile">
   Content inside
-</div>`
+</div>```
 
 
 **Hide on tablets**
-`
+```css
 <div class="cone-hide-tablet">
   Content inside
-</div>`
+</div>```
 
 
 **Hide on PC's**
 
-`
+```css
 <div class="cone-hide-pc">
   Content inside
-</div>`
+</div>```
